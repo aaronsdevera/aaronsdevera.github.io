@@ -3,7 +3,13 @@
 	var pattern = t.generate(document.body.clientWidth,document.body.clientHeight);
 	document.body.setAttribute('style','background-image:'+pattern.dataUrl+';background-size: cover');
 }*/
+/*
+setTimeout(function(){
+   window.location.reload(1);
+}, 5000);*/
 
 $(document).ready(function(){
-	
+	$("#posts ul li").click(function(){
+		$("#posts").blur();
+	})
 });

@@ -1,113 +1,58 @@
 body, html {
-	font-family: 'Playfair Display', sans-serif;
+	font-family: 'Menlo', "Courier New";
+	font-size:14px;
 	height:100%;
-	width:100%;
-	position: fixed;
 	margin:0;
-	background:#ddd;
+	background:#eee;
+	line-height:24px;
+	color:#000
+
 }
 
+/* FONT STYLE */
 
 a {
-	text-decoration: none;
+	color:#000;
+	text-decoration: underline;
+}
+
+a:visited {
+	color:#000;
 }
 
 h1 {
-	font-size: 100px;
-	font-weight:100;
-	line-height: 100px;
+	font-weight:800;
+	font-size:14px;
+	line-height:14px;
+	margin:0px 0px 0px 0px;
 
+}
+
+h1 a {
+	text-decoration:none;
 }
 
 h2 {
-	font-size: 42px;
-	font-weight:400;
-	line-height: 42px;
-	font-weight:700;
+	font-weight:100;
+	font-size:14px;
+	line-height:14px;
+	margin:0px 0px 0px 0px;
+
 }
 
 h3 {
-	font-size: 30px;
-	font-weight:700;
-	display: inline-block;
-	line-height: 0px;
-
+	font-weight:100;
+	font-size:14px;
+	line-height:14px;
+	margin:0px 0px 0px 0px;
+	
 }
 
-h3 a {
-	color:#888;
-	transition: all 0.5s ease;
-}
-
-h3 a:hover {
-	color: #666;
-}
-
-
-
-/* MENUS */
-
-
-#menu {
-	margin:150px 100px 0px 100px;
-	color:#666;
-	z-index:4;
-}
-
-.contact_links {
-	float:left;
-	display:block;
-	padding:0;
-	margin:0;
-	z-index:5;
-
+ul {
+	margin-left:0px;
 }
 
 li {
-	list-style:none;
-}
-
-/* IMG */
-#art {
-	width:40%;
-	height:auto;
-	z-index:6;
-	float:left;
-	margin:-80px 100px 0px 55%;
-	position:fixed;
-}
-
-#art img {
-	width:100%;
-	height:auto;
-}
-
-
-@media only screen and (min-width : 320px) and (max-width : 800px) {
-	#menu {
-		margin:0px 0px 0px 0px;
-		text-align: center;
-
-	}
-
-
-	#menu h2 {
-		margin:10px;
-		padding-bottom:10px;
-		border-bottom: 1px solid #666;
-	}
-
-	.contact_links {
-		text-align:center;
-		margin:auto;
-		float:center;
-	}
-
-	#art {
-		float:center;
-		margin:10px auto 0px auto;
-		width:70%;
-		position:relative;
-	}
-
+	list-style-type:none;
+	margin-left:50px;
 }
