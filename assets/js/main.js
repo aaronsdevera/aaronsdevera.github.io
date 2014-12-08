@@ -3,6 +3,7 @@ $(document).ready(function(){
 	$("#night").click(function(){
 
 		if (day==true){
+			$(this).empty();
 			$("body").removeClass("greyback");
 			$("body").addClass("plumback");
 			$("a").removeClass("blacktext");
