@@ -1,16 +1,16 @@
 body {
-	font-family: 'Menlo', "Courier New";
+	font-family: 'Lato', "Courier New";
 	font-size:14px;
 	height:100%;
 	margin-top:15px;
 	margin-right:15px;
-	background:#eee;
+	background:#fff;
 	line-height:16px;
 	color:#000
 }
 
 .greyback {
-	background:#eee;
+	background:#fff;
 	color:#000;
 
 }
@@ -40,9 +40,9 @@ a:visited {
 }
 
 h1 {
-	font-weight:800;
-	font-size:14px;
-	line-height:14px;
+	font-weight:300;
+	font-size:24px;
+	line-height:24px;
 	margin:5px 0px 5px 0px;
 
 }
@@ -52,18 +52,18 @@ h1 a {
 }
 
 h2 {
-	font-weight:100;
-	font-size:14px;
-	line-height:14px;
+	font-weight:300;
+	font-size:18px;
+	line-height:24px;
 	margin:5px 0px 5px 0px;
 
 }
 
 h3 {
-	font-weight:100;
-	font-size:14px;
-	line-height:14px;
-	margin:5px 0px 5px 0px;
+	font-weight:300;
+	font-size:18px;
+	line-height:18px;
+	margin:8px 0px 8px 0px;
 
 }
 
@@ -80,6 +80,146 @@ ul ul {
 	margin-left:50px;
 }
 
+ul ul li {
+	font-size:16px;
+}
+
 #night {
+	margin-top:400px;
+	bottom:0px;
 	float:right;
+}
+
+.blackborder{
+	border-bottom: 1px solid #000;
+}
+
+.whiteborder {
+	border-bottom: 1px solid #FFF;
+}
+
+/* NAV UL */
+
+nav {
+	width:600px;
+	height:35px;
+	margin:0px auto 0px auto;
+	z-index:5;
+	position:relative;
+}
+
+
+nav span {
+	float:left;
+
+}
+
+nav ul {
+	margin:0px;
+	display:inline;
+	float:right;
+}
+
+nav ul li {
+	float:left;
+}
+
+nav ul li a {
+	text-decoration:none;
+}
+
+/* BODY CONTAINERS */
+
+/* IMAGE */
+
+#image_container {
+	width:600px;
+	height:300px;
+	display:inline-block;
+	margin:0px;
+	top:0;
+	left:0;
+	position:absolute;
+	z-index:1;
+	background-image:url("");
+	background-size:cover;
+	margin:70px auto 50px auto;
+}
+
+#jpeg2 {
+	width:600px;
+	height:300px;
+	display:block;
+	margin:0px auto 15px auto;
+
+	position:relative;
+	z-index:1;
+	background-image:url("../img/aaronsdevera.jpg");
+	background-color:#fff;
+	background-size:100% auto;
+}
+
+.container {
+	font-size:18px;
+	width:600px;
+	height:auto;
+	margin:15px auto 0px auto;
+	padding:0;
+}
+
+.container ul {
+	display:inline;
+	width:600px;
+	margin: 0px auto 0px 0px;
+	left:0;
+	padding:0;
+	line-height:20px;
+
+}
+
+.container ul ul li{
+	margin-left:100px;
+	padding:0;
+
+}
+
+
+
+#contacts li {
+
+	display:inline;
+}
+
+.about_link {
+	color:black;
+	font-size:24px;
+	font-weight:300;
+	line-height:30px;
+}
+
+#terminal {
+	margin: 50px auto 50px auto;
+	height:30px;
+	width:600px;
+	color:white;
+	background:#000;
+	font-family:"menlo";
+	position:relative;
+	z-index:6;
+}
+
+#terminal input {
+	width:580px;
+	height:90%;
+	border:none;
+	background:#000;
+	color:white;
+	font-family:"menlo";
+	outline:none;
+
+}
+
+#terminal input:focus {
+	outline:none;
+	cursor:white;
 }
