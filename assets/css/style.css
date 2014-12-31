@@ -137,8 +137,6 @@ nav ul li a {
 	height:300px;
 	display:inline-block;
 	margin:0px;
-	top:0;
-	left:0;
 	position:relative;
 	z-index:1;
 	background-image:url("assets/img/aaronsdevera.jpg");
