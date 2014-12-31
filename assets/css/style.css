@@ -139,11 +139,13 @@ nav ul li a {
 	margin:0px;
 	position:relative;
 	z-index:1;
-	background-image:url("../img/aaronsdevera.jpeg");
-	background-size:cover;
-	margin:0px auto 15px auto;
+	margin:0px auto 35px auto;
 }
 
+#image_container img {
+	width:100%;
+	height:auto;
+}
 
 .container {
 	font-size:18px;
