@@ -139,7 +139,7 @@ nav ul li a {
 	margin:0px;
 	position:relative;
 	z-index:1;
-	background-image:url("/assets/img/aaronsdevera.jpg");
+	background-image:url("../img/aaronsdevera.jpg");
 	background-size:cover;
 	margin:0px auto 15px auto;
 }
