@@ -1,3 +1,9 @@
+var b = document.documentElement;
+b.className = b.className.replace('no-js', 'js');
+b.setAttribute("data-useragent",  navigator.userAgent);
+b.setAttribute("data-platform", navigator.platform );
+console.log(navigator.userAgent);
+console.log(navigator.platform);
 
 
 $(document).ready(function(){
