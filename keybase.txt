@@ -1,0 +1,67 @@
+==================================================================
+https://keybase.io/aaronsdevera
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://aaronsdevera.com
+  * I am aaronsdevera (https://keybase.io/aaronsdevera) on keybase.
+  * I have a public key with fingerprint 1F5D BC12 B7F0 FE91 77C9  2F50 2E01 80F4 D65E 7D97
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "1f5dbc12b7f0fe9177c92f502e0180f4d65e7d97",
+            "host": "keybase.io",
+            "key_id": "2e0180f4d65e7d97",
+            "kid": "0101e70ac933f92af7e2457666bdc373e9d7660b8203860696b6a751d2a23f5572d20a",
+            "uid": "24961406b1dca5397336b80d7b98f300",
+            "username": "aaronsdevera"
+        },
+        "service": {
+            "hostname": "aaronsdevera.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1419885015,
+    "expire_in": 157680000,
+    "prev": "731b7887042c4d965a1f466e04ce47bce613eaa4b9071ae47ec95fe8bab3c93b",
+    "seqno": 9,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.1
+Comment: https://keybase.io/crypto
+
+yMIcAnicbZJrSBVBFMdXM6tbkfSkoD5sUYIXm9nX7F6pRHpHWSJ9UPM6Mzurm3r3
+uvd6NVSKrKgPlR+iqChSzMpCIqnQsDSkNz0QygKDRMggMkmplKLZHt+aL8Oc8/v/
+z5zD6Z4+QfDFpcbtGXmZX3Mi7nHX+nIhu77tVZVIHHOXGKgSi9nvy7JDhcwNu3Yo
+KgZEaKkmoVAiyAIWMyBC1JAsFUgMQB1YiqmpDJkGEv1ikRPxFNyG4AhLtR0e44+g
+bfLof/ji3wkAAWQIYGrIsmVI2EJMUlSkaRoxqYxkZpj8AYguAVnXgGZoRMNIhaaE
+JdlSVSSZEsDcrvxPHcXQoAI0Ak2KVdlAsqwRHZiIGLolA+CBEeaGcCnjNMauE4qY
+LMZcLNb4RZ6J2ZR5Y/C6+Q+VSp1S7hF2nahDnRKeLYpGwwFPHN0V9ugKRoJ/fYLE
+Dpl8nFzAtRHbCYkByEkatT1jqEBD11UAVb/IKsO2y4K2R/DudcCPV4bFuCWSIUG6
+joAiUcU0NBVDS9E0BhTKFEQo06DMMFaIARDEPMSooVpMJ5jIfK5E9DorCzliwODf
+xIXcMmIXhnC03GVizd3OvAQhzickToz3FkLwTUn6tybTxyYLnQv61ymv78of27eP
+NuoFpddA4Kq4Mil7/prql4NvnZRFuWuyn6f79296Rzc9eLD/wL2TM0d6Bnzn5nX1
+x1oycvYuSau7v/ks+nwnq6Jjy8F1yb591eOXSgYakunyrkdf+xaDtA+3wjt30Hbf
+jzOfVjxNXPm+dcP32d+khp4vU5e2JGS2xc6fDnbItUWHh1IK0mNpp1PmvKjobG7U
+d+bNurziXWPr1lNCUuWG5ENlw9Ou5zRHzIy+/PobZ+qTr/hbxmvXrx3tQa/6M4/b
+2sJVAxuPNFU2rR0WfLdbJg39fFJ289iz3XVOXXxW+Zux3G2pqwcblCzlwrLuow97
+L87Nndx7Bx2e8QuaeSrH
+=fkiC
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/aaronsdevera
+
+==================================================================
