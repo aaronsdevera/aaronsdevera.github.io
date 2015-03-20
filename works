@@ -1,7 +1,7 @@
 <!DOCTYPE html>
-<html class="img_back_bw">
+<html class="black_back">
 <head>
-  <title>Aaron S. DeVera | Portfolio</title>
+  <title>Aaron S. DeVera | Works</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <link rel="shortcut icon" href="assets/img/favicon.ico" type="image/x-icon">
@@ -17,47 +17,23 @@
 
 <body class="pattern_back">
 <div id="head">
-<a href="http://aaronsdevera.com"><div id="header" class="white_text black_back">
+<a href="index.html"><div id="header" class="white_text black_back">
   <h1>Aaron S. DeVera</h1>
 </div></a></div>
 <nav>
-  <a href="#about"><div id="about_button" class="nav_button white_text black_back">
-    <h2>About</h2>
+  <a href="info"><div id="info_button" class="nav_button white_text black_back">
+    <h2>Info</h2>
   </div></a>
-  <!--<a href="http://nyetscape.com"><div id="blog_button" class="nav_button white_text black_back">
-    <h2>Blog</h2>
-  </div></a>-->
-  <a href="#portfolio"><div id="portfolio_button" class="nav_button white_text black_back">
-    <h2>Portfolio</h2>
+  <a href="assets/papers/Aaron%20DeVera%20-%20Resume.pdf"><div id="resume_button" class="nav_button white_text black_back">
+    <h2>Resume</h2>
+  </div></a>
+  <a href="#works"><div id="works_button" class="nav_button white_text black_back">
+    <h2>Works</h2>
   </div></a>
 </nav>
 
 
-
-
-<div id="about" class="card">
-
-  <h3 class="white_text">Hey! Welcome to my personal website.</h3>
-  <h3 class="white_text">I work in business intelligence as well as cyber risk.</h3>
-  <h3 class="white_text">I currently attend Fordham University, Class of 2016.</h3>
-  <h3 class="white_text">Check out my projects and my blog! Both are linked on the left.</h3>
-  <h3 class="white_text">Contact:</h3>
-    <ul id="contacts">
-      <li><a class="about_link" href="assets/papers/Aaron%20DeVera%20-%20Resume.pdf">Resume</a></li>
-      <li><a class="about_link" href="mailto:adevera@fordham.edu">Email</a></li>
-      <li><a class="about_link" href="http://linkedin.com/in/aaronsdevera">LinkedIn</a></li>
-      <li id="gpg"><a class="about_link" href="https://keybase.io/aaronsdevera/key.asc">Public PGP</a><span id="fingerprint" class="white_text">Fingerprint = A64AD8740C4CDF92D82BDC7C98421C2569A3B8A0</span></li>
-      <li><a class="about_link" href="http://twitter.com/aaronsdevera">Twitter</a></li>
-      <li><a class="about_link" href="http://github.com/aaronsdevera">Github</a></li>
-      <li><a class="about_link" href="https://www.quora.com/Aaron-DeVera/">Quora</a></li>
-      <li><a class="about_link" href="http://slideshare.net/aaronsdevera">Slideshare</a></li>
-      <li><a class="about_link" href="http://instagram.com/aaronsdevera">Instagram</a></li>
-    </ul>
-
-</div>
-
-<div id="portfolio" class="card white_text black_back">
-
+<div class='card'>
   <ul><h2>Research</h2>
       <li><h3>USB as an Attack Platform</h3></li>
       <ul>
@@ -99,20 +75,18 @@
         <li><h3><a class="white_text" hef="https://medium.com/@aaronsdevera/on-usb-physical-2-step-verification-9a79a74639b8">Risks with USB as a 2-step Identifier</a></h3></li>
         <li><h3><a class="white_text" href="http://fordhampoliticalreview.org/author/aaronsdevera">Articles written for the Fordham Political Review</a></h3></li>
       </ul>
-
-</div>
+</div><!--card-->
 
 
 </body>
 
-<!--<div id="terminal" class="black_back white_text">$&gt;<input id="in"></input></div>-->
 
 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
     (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
     m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  })(window,document,'script','http://www.google-analytics.com/analytics.js','ga');
 
   ga('create', 'UA-56525984-1', 'auto');
   ga('send', 'pageview');
