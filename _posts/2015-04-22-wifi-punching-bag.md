@@ -1,6 +1,6 @@
 ---
 layout: post
-title: WiFi Punching Bag: Embedded Athletic Systems for Live Data Monitoring
+title: WiFi Punching Bag: Live Athletic Data Monitoring
 ---
 
 This is a test of a cloud-based platform to measure motion in athletic equipment. The first deployment of the sensor will be on a 100lb. punching bag, with a web companion program that will be tracking punch efficiency and power. The same system can be easily applied to wearable equipment like helmets/pads and allow for streaming diagnostic impact data (eg. how hard a player sustains a tackle).
