@@ -9,11 +9,11 @@ So I thought it through when my friend Rob asked me "what's stopping us from rem
 
 Basically, nothing. Many enterprise employees use Remote Desktop connections, which allows a user to connect to one computer through another. It's a great method to pool resources and control access, and not very difficult to implement or scale. And, what's key, a Remote Desktop connection can allow a user with a weaker device--say, a smartphone--to a powerful, more capable device like a desktop machine or a server.
 
-
-![x](../../../../public/img/post_img/2015-03-15-computing-for-everybody.gif "1960s modem network")
+<center>
+![1960s modem network](../../../../public/img/post_img/2015-03-15-computing-for-everybody.gif "1960s modem network")
 
 *Utilizing external computing power from a dumb device is nothing new in this diagram of a 1960s modem network. Via Howstuffworks.*
-
+</center>
 
 
 Let's run trough some benefits of Remote Desktop that could really affect a future consumer.
