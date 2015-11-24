@@ -3,7 +3,7 @@ layout: post
 title: What's next? Computing for everybody
 ---
 
-I love questions like this: "What's stopping us from..?" It's a great way to lay out all obstacles on the table. Sometimes there are many; other times, few. Often you may find that mentally handling the exceptions and obstacles to an idea can help you improve the ideas design and feasibility.
+I love questions like this: "What's stopping us from...?" It's a great way to lay out all obstacles on the table. Sometimes there are many; other times, few. Often you may find that mentally handling the exceptions and obstacles to an idea can help you improve the ideas design and feasibility.
 
 So I thought it through when my friend Rob asked me "what's stopping us from remotely connecting to desktop computers for everyday computing?"
 
