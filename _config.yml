@@ -22,6 +22,6 @@ author:
 version:             1.0.0
 
 pages_list:       
-  Work: '/work'
-  Blog Archive: '/archive'
+  Work: 'http://aaronsdevera.com/work'
+  Blog Archive: 'http://aaronsdevera.com/archive'
   
