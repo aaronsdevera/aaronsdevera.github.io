@@ -12,7 +12,6 @@ Basically, nothing. Many enterprise employees use Remote Desktop connections, wh
 
 ![Utilizing external computing power from a dumb device is nothing new in this diagram of a 1960s modem network. Via Howstuffworks.](http://aaronsdevera.com/public/img/post_img/2015-03-15-computing-for-everybody.gif "1960s modem network")
 
-
 *Utilizing external computing power from a dumb device is nothing new in this diagram of a 1960s modem network. Via Howstuffworks.*
 
 
