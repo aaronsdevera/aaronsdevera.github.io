@@ -335,6 +335,7 @@ a.sidebar-nav-item:focus {
  */
  
  .wrap {
+   display:none
    z-index: 3;
  }
 
