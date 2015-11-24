@@ -8,8 +8,8 @@ relative_permalinks: true
 title:               Aaron S. DeVera
 tagline:             'Blog & Portfolio'
 description:         'Blog and Portfolio of Aaron S. DeVera'
-url:                 'http://aaronsdevera.com'
-baseurl:             'http://aaronsdevera.com'
+url:                 http://aaronsdevera.com
+baseurl:             http://aaronsdevera.com
 paginate:            5
 
 # About/contact
