@@ -1,0 +1,27 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: true
+
+# Setup
+title:               Aaron S. DeVera
+tagline:             'Blog & Portfolio'
+description:         'Blog and Portfolio of Aaron S. DeVera'
+url:                 http://aaronsdevera.com
+baseurl:             ''
+paginate:            5
+
+# About/contact
+author:
+  name:              Aaron S. DeVera
+  url:               https://twitter.com/aaronsdevera
+  email:             aaronsdevera@protonmail.ch
+
+# Custom vars
+version:             1.0.0
+
+pages_list:       
+  Work: '/work'
+  Blog Archive: '/archive'
+  
