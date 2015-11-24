@@ -81,13 +81,13 @@ h1, h2, h3, h4, h5, h6 {
   .container {
     max-width: 28rem;
   }
-  .post, #about, #contact, #recent_posts {
+  .post, #about, #contact, #recent_posts, #work {
     width:700px;
   }
 }
 
 @media (max-width: 950px) {
-  .post, #about, #contact, #recent_posts {
+  .post, #about, #contact, #recent_posts, #work {
     min-width:100%;
   }
 }
