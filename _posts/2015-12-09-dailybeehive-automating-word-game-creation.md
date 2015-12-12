@@ -1,6 +1,6 @@
 ---
 layout: post
-title: @dailybeehive- Automating Word Game Creation
+title: Dailybeehive- Automating Word Game Creation
 ---
 
 There is a word game that appears every Sunday in the New York Times Magazine called "Spelling Bee" that I like to play (especially when one of my sisters is around to compete against). I'm not too sure of the origins; created each by Frank Longo, there doesn't seem to be too much information online about the game or its history.
