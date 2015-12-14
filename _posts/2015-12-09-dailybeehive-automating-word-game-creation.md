@@ -16,6 +16,9 @@ So I decided to create my own: Daily Beehive, a daily automated word puzzle that
 - No proper nouns (so no names, places, companies)
 - Words must be longer than 5 letters (In Longo's games this minimum word would vary dependent on puzzle difficulty).
 
+![The original spelling bee game. Longo is obviosuly a gamemaster; he imagines solutions and chooses letters without need for any fancy algorithms.](../../../../public/img/post_img/2015-12-09-dailybeehive-automating-word-game-creation-2.png "The original spelling bee game. Longo is obviosuly a gamemaster; he imagines solutions and chooses letters without need for any fancy algorithms.")
+##### *The original spelling bee game. Longo is obviosuly a gamemaster; he imagines solutions and chooses letters without need for any fancy algorithms.*
+
 ## Making the game 
 Using a handful of past games, I started out looking for patterns in the letters Longo selected. My strategy was to track the [letter frequency](https://en.wikipedia.org/wiki/Letter_frequency) of the letters Longo used. A letter with high letter frequency means it is more likely to appear in words, conversations, and writing. It makes sense to me that it would be easier to create words with high letter frequencies, with puzzle difficulty dependent on the lwoer frequncy letters included in the puzzle. 
 
@@ -47,8 +50,13 @@ With RStudio I analyzed the freuencies of past letter Longo has used, discrimina
 
 So if I wanted to pick some consonant letters for a new puzzle, each individual letter frequency would be in the ballpark of 4.9. For this method, this would mean developing an allowance based on the statical variation (you see this in political polling all the time: 4.9 ± .5 or so). However I chose to instead set a minimum threshold for these average frequencies, meaning that the average of each group of consonants picked for a new puzzle will be 4.9 or above. This will make the puzzle consistently less difficult for now, but that could be good for audience onboarding. These thresholds are easy to tweak, so I developing more diffuclty puzzles will as easy as tweaking the parameters in the algorithm.
 
+## Difficulty
+With a list of letters and frequencies I can track the frequencies pretty easily, checking for quality and difficulty along the way. One way I measure difficulty is ALF, which stands for Average Letter Frequency. This is determined by taking the letter frequency of each letter found in a single game and finding the average. Since it is easier to make words with higher letter frequencies, games with higher ALF will be easier than games with lower ALF.
+
+The thing is, Longo is a gamemaster. He chooses letters but also imagines the possible solutions. While I may create pretty good generation of playable games, it's more difficult to have the computer solve then it is to generate them. Additionally, Longo provides the reader with a metric of how well they did (e.g. average:8 words, good:16 words, etc). While I can determine average letter frequency, higher ALF doesn't promise a easier game. Additionally, combinations of letters can make game easier, despite their letter frequencies (having both 'c' and 'k' in a game will be easier than if you jsut had 'k').
+
 ## Python Stack
-The generation of letters was created with Python. Basically I created rand functions that pick consonants, vowels, and center letters, with each function checking for the letter frequency parameters discussed above. With a list of letters and frequencies I can track the frequencies pretty easily, checking for quality and difficulty along the way. One way I measure difficulty is ALF, which stands for Average Letter Frequency. This is determined by taking the letter frequency of each letter found in a single game and finding the average. Since it is easier to make words with higher letter frequencies, games with higher ALF will be easier than games with lower ALF. After generating the letters, the Python script uses the python-twitter library to then format the post. With some crude ASCII generation, I insert the selected letters into a hive shape.
+The generation of letters was created with Python. Basically I created rand functions that pick consonants, vowels, and center letters, with each function checking for the letter frequency parameters discussed above. After generating the letters, the Python script uses the python-twitter library to then format the post. With some crude ASCII generation, I insert the selected letters into a hive shape.
 
 ![@dailybeehive Twitter profile, where puzzles are generated daily.](../../../../public/img/post_img/2015-12-09-dailybeehive-automating-word-game-creation.png "@dailybeehive Twitter profile, where puzzles are generated daily.")
 
