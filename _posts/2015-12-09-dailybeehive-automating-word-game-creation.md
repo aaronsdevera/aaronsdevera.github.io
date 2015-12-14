@@ -63,4 +63,4 @@ The generation of letters was created with Python. Basically I created rand func
 ##### *@dailybeehive Twitter profile, where puzzles are generated daily.*
 
 ## Free and open-source
-I may continue to tweak the game, and I welcome anyone to [visit the source code on GitHub](https://github.com/aaronsdevera/dailybeehive). Currently the dailybeehive stack is designed to update and run everyday; It'll be interesting to see what it turns out, and comapre the playability to gamemaster Longo's work! 
+I may continue to tweak the game, and I welcome anyone to [visit the source code on GitHub](https://github.com/aaronsdevera/dailybeehive). Currently the dailybeehive stack is designed to update and run everyday; It'll be interesting to see what it turns out, and compare the playability to gamemaster Longo's work! 
