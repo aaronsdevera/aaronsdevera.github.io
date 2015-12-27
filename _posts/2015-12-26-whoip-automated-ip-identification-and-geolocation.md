@@ -8,7 +8,7 @@ My friend [Kenny](https://twitter.com/kennydurk_in) showed me [Peerblock](http:/
 I have a list of malicious IPs. I thought it would be cool to track where these IP addresses are geolocated, as well as theire WHOIS registration. Additionally, I wanted to use some cool-sounding python packages I had head of, like [folium](https://github.com/python-visualization/folium). So I built [whoip](https://github.com/aaronsdevera/whoip), a program that automates IP identification and geolocation using reverse DNS and visualization with folium.
 
 ![whoip process with malicious IP sample list.](../../../../public/img/post_img/2015-12-26-whoip-automated-ip-identification-and-geolocation.png "whoip process with malicious IP sample list")
-##### *whoip process with malicious IP sample list.*
+*whoip process with malicious IP sample list.*
 
 ## Functions
 whoip processes IPs from one of two sources: a list file input from the command line, or by selecting a target domain to traceroute.
