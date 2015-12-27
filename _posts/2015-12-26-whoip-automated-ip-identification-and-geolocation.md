@@ -10,6 +10,8 @@ I have a list of malicious IPs. I thought it would be cool to track where these 
 ![whoip process with malicious IP sample list.](../../../../public/img/post_img/2015-12-26-whoip-automated-ip-identification-and-geolocation.png "whoip process with malicious IP sample list")
 *whoip process with malicious IP sample list.*
 
+whoip also allows you to visualize and experiences the challenges associated with attribution, a topic I think about a lot. Seeing the hops and locations necessary in providing a casual browser access to a webapge can help reinforce how nebulous networking can become. While this tool may try its best to display the associated owner of the IP address, there's no gaurantee it won't be outdated, nullified, or [disguised as an identity other than their effective owner](http://www.jareds-blog.com/known-nsa-shell-companies/).
+
 ## Functions
 whoip processes IPs from one of two sources: a list file input from the command line, or by selecting a target domain to traceroute.
 
