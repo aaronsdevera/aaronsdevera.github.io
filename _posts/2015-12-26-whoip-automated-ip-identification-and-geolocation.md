@@ -15,9 +15,21 @@ whoip processes IPs from one of two sources: a list file input from the command 
 
 ```
 whoip.py -f <LISTFILE>
+```
+<br>
+```
 whoip.py -t <TARGET DOMAIN>
+```
+<br>
+```
 -f, --list-file     :     Upload a list of IPs for processing
+```
+<br>
+```
 -t, --traceroute    :     Perform traceroute on target IP
+```
+<br>
+```
 -h, --help          :     Assistance
 ```
 
@@ -25,7 +37,7 @@ The list file function parses through the list file for IPs with a regex. The tr
 
 ## Free and open-source
 I welcome anyone to [visit the source code on GitHub and contribute](https://github.com/aaronsdevera/whoip). This was a hack-and-slash couple hours worth of programming, and a manageble start to improve upon!
-To-do:<br>
+### To-do:<br>
 - [viz] Better starting zoomed view of map to show all waypoints<br>
 - [viz] Toggle-able lines between traceroute hops on map<br>
 - [viz] Better styling for IP info on map<br>
