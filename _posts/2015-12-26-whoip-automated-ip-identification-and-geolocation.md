@@ -15,9 +15,17 @@ whoip processes IPs from one of two sources: a list file input from the command 
 
 ```
     whoip.py -f <LISTFILE>
+```
+```
     whoip.py -t <TARGET DOMAIN>
+```
+```
     -f, --list-file     :     Upload a list of IPs for processing
+```
+```
     -t, --traceroute    :     Perform traceroute on target IP
+```
+```
     -h, --help          :     Assistance
 ```
 
