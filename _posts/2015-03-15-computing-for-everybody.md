@@ -12,7 +12,7 @@ Basically, nothing. Many enterprise employees use Remote Desktop connections, wh
 
 ![1960s modem network](../../../../public/img/post_img/2015-03-15-computing-for-everybody.gif "1960s modem network")
 
-###### *Utilizing external computing power from a dumb device is nothing new in this diagram of a 1960s modem network. Via Howstuffworks.*
+*Utilizing external computing power from a dumb device is nothing new in this diagram of a 1960s modem network. Via Howstuffworks.*
 
 
 Let's run trough some benefits of Remote Desktop that could really affect a future consumer.

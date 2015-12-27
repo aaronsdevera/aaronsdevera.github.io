@@ -8,7 +8,7 @@ This is a test of a cloud-based platform to measure motion in athletic equipment
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pXzIyxi4WPE" frameborder="0" allowfullscreen></iframe>
 
-###### *Demonstration of prototype sensor on YouTube.*
+*Demonstration of prototype sensor on YouTube.*
 
 
 Based on the Spark Core WiFi development board, with a backend service developed with Python, with web deployment built with Flask and Socket.io.
