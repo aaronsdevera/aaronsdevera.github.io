@@ -12,6 +12,7 @@ I have a list of malicious IPs. I thought it would be cool to track where these 
 
 ## Functions
 whoip processes IPs from one of two sources: a list file input from the command line, or by selecting a target domain to traceroute.
+
 ```
     whoip.py -f <LISTFILE>
     whoip.py -t <TARGET DOMAIN>
@@ -19,6 +20,7 @@ whoip processes IPs from one of two sources: a list file input from the command 
     -t, --traceroute    :     Perform traceroute on target IP
     -h, --help          :     Assistance
 ```
+
 The list file function parses through the list file for IPs with a regex. The traceroute feature performs a pretty standard traceroute, targeting the hops along the way to your target domain. This mode was interesting; targeting the google.com domain, I revealed hops registered to Comcast datacenters in Wichita, Kansas, despite my close proximity to Mountain View.
 
 ## Free and open-source
