@@ -24,6 +24,32 @@ While there is no all-in-one solution to do so, I like to fuse all this data int
 
 A lot of steps. I've been toying around with [Mapbox](https://www.mapbox.com), but the Google route offers less configuration to get running. Ideally, there would be an all-in-one solution that prepares the photo data atop the map layer, but this will do for me now.
 
+# Fun stats
+<table>
+  <tbody>
+    <tr>
+      <th>Distance</th>
+      <th>6.4mi</th>
+    </tr>
+    <tr>
+      <td>Elapsed Time</td>
+      <td>1:43:07</td>
+    </tr>
+    <tr>
+      <td>Moving Time</td>
+      <td>1:00:36</td>
+    </tr>
+    <tr>
+      <td>Climbed Elevation</td>
+      <td>1,006ft</td>
+    </tr>
+    <tr>
+      <td>556kJ</td>
+      <td>Energy Output</td>
+    </tr>
+  </tbody>
+</table>
+
 ### View the ride data on Strava: [link](https://www.strava.com/activities/460853226)
 ### View the ride on Google Maps here: [link](https://www.google.com/maps/d/u/1/viewer?mid=zVfxGx3ZeYjc.kGD_ozKbdMO0)
 ### Download the ride w/photos as KMZ and view in your own GIS vis such as Google Earth: [link](../../../../public/files/01012016/NYD\ Ridge\ Ride.kmz)
