@@ -56,7 +56,8 @@ A lot of steps. I've been toying around with [Mapbox](https://www.mapbox.com), b
   </tbody>
 </table>
 
-### View the ride data on Strava: [link](https://www.strava.com/activities/460853226) <br>
-### View the ride on Google Maps here: [link](https://www.google.com/maps/d/u/1/viewer?mid=zVfxGx3ZeYjc.kGD_ozKbdMO0) <br>
+### View the ride data on Strava: [link](https://www.strava.com/activities/460853226)
+
+### View the ride on Google Maps here: [link](https://www.google.com/maps/d/u/1/viewer?mid=zVfxGx3ZeYjc.kGD_ozKbdMO0)
 
 ### Download the ride w/photos as KMZ and view in your own GIS vis such as Google Earth: [link](../../../../public/files/01012016/NYD\ Ridge\ Ride.kmz)
