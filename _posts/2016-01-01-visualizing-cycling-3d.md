@@ -26,6 +26,12 @@ A lot of steps. I've been toying around with [Mapbox](https://www.mapbox.com), b
 
 # Fun stats
 <table>
+  <thead>
+    <tr>
+      <th>Detail</th>
+      <th>Data</th>
+    </tr>
+  </thead>
   <tbody>
     <tr>
       <th>Distance</th>
