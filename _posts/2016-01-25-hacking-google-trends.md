@@ -35,4 +35,4 @@ These results show promise for similar correlations in other state data. If othe
 
 This is an ongoing project; we plan on automating the process for each state as we complete our data sets for each state. I'll be updating on [LinkedIn](http://linkedin.com/in/aaronsdevera) and [my blog](http://aaronsdevera.com) with more updates and conclusions as they come along!
 
-*This is an excerpt of a report to appear in academic journals this Spring. Read that preliminary report [here](../../../../public/files/01252016/DeVera-O\'Brien_paper.pdf).*
+*This is an excerpt of a report to appear in academic journals this Spring. Read that preliminary report [here](../../../../public/files/01252016/hacking_google_report.pdf).*
