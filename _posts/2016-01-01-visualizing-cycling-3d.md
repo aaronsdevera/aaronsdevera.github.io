@@ -9,7 +9,7 @@ However, I also like to take pictures during my ride, which of course have embed
 
 While there is no all-in-one solution to do so, I like to fuse all this data into one visualization. 
 
-![Image overlay atop geographic data.](../../../../public/img/post_img/2016-01-01-visualizing-cycling-3d.png "Image overlay atop geographic data.")
+![Image overlay atop geographic data.](http://aaronsdevera.com./public/img/post_img/2016-01-01-visualizing-cycling-3d.png "Image overlay atop geographic data.")
 *Image overlay atop geographic data.*
 
 # My workflow
@@ -54,4 +54,4 @@ A lot of steps. I've been toying around with [Mapbox](https://www.mapbox.com), b
 
 ### View the ride on Google Maps here: [link](https://www.google.com/maps/d/u/1/viewer?mid=zVfxGx3ZeYjc.kGD_ozKbdMO0)
 
-### Download the ride w/photos as KMZ and view in your own GIS vis such as Google Earth: [link](../../../../public/files/01012016/NYD%20Ridge%20Ride.kmz)
+### Download the ride w/photos as KMZ and view in your own GIS vis such as Google Earth: [link](http://aaronsdevera.com/public/files/01012016/NYD%20Ridge%20Ride.kmz)

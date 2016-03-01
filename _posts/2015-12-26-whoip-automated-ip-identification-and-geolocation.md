@@ -7,7 +7,7 @@ My friend [Kenny](https://twitter.com/kennydurk_in) showed me [Peerblock](http:/
 
 I have a list of malicious IPs. I thought it would be cool to track where these IP addresses are geolocated, as well as theire WHOIS registration. Additionally, I wanted to use some cool-sounding python packages I had head of, like [folium](https://github.com/python-visualization/folium). So I built [whoip](https://github.com/aaronsdevera/whoip), a program that automates IP identification and geolocation using reverse DNS and visualization with folium.
 
-![whoip process with malicious IP sample list.](../../../../public/img/post_img/2015-12-26-whoip-automated-ip-identification-and-geolocation.png "whoip process with malicious IP sample list")
+![whoip process with malicious IP sample list.](http://aaronsdevera.com/public/img/post_img/2015-12-26-whoip-automated-ip-identification-and-geolocation.png "whoip process with malicious IP sample list")
 *whoip process with malicious IP sample list.*
 
 whoip also allows you to visualize and experiences the challenges associated with attribution, a topic I think about a lot. Seeing the hops and locations necessary in providing a casual browser access to a webapge can help reinforce how nebulous networking can become. While this tool may try its best to display the associated owner of the IP address, there's no gaurantee it won't be outdated, nullified, or [disguised as an identity other than their effective owner](http://www.jareds-blog.com/known-nsa-shell-companies/).

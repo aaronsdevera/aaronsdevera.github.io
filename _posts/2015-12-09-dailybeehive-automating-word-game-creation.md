@@ -16,7 +16,7 @@ So I decided to create my own: Daily Beehive, a daily automated word puzzle that
 - No proper nouns (so no names, places, companies)
 - Words must be longer than 5 letters (In Longo's games this minimum word would vary dependent on puzzle difficulty).
 
-![The original spelling bee game. Longo is obviosuly a gamemaster; he imagines solutions and chooses letters without need for any fancy algorithms.](../../../../public/img/post_img/2015-12-09-dailybeehive-automating-word-game-creation-2.png "The original spelling bee game. Longo is obviosuly a gamemaster; he imagines solutions and chooses letters without need for any fancy algorithms.")
+![The original spelling bee game. Longo is obviosuly a gamemaster; he imagines solutions and chooses letters without need for any fancy algorithms.](http://aaronsdevera.com/public/img/post_img/2015-12-09-dailybeehive-automating-word-game-creation-2.png "The original spelling bee game. Longo is obviosuly a gamemaster; he imagines solutions and chooses letters without need for any fancy algorithms.")
 *The original spelling bee game. Longo is obviosuly a gamemaster; he imagines solutions and chooses letters without need for any fancy algorithms.*
 
 ## Making the game 
@@ -58,7 +58,7 @@ The thing is, Longo is a gamemaster. He chooses letters but also imagines the po
 ## Python Stack
 The generation of letters was created with Python. Basically I created rand functions that pick consonants, vowels, and center letters, with each function checking for the letter frequency parameters discussed above. After generating the letters, the Python script uses the python-twitter library to then format the post. With some crude ASCII generation, I insert the selected letters into a hive shape.
 
-![@dailybeehive Twitter profile, where puzzles are generated daily.](../../../../public/img/post_img/2015-12-09-dailybeehive-automating-word-game-creation.png "@dailybeehive Twitter profile, where puzzles are generated daily.")
+![@dailybeehive Twitter profile, where puzzles are generated daily.](http://aaronsdevera.com/public/img/post_img/2015-12-09-dailybeehive-automating-word-game-creation.png "@dailybeehive Twitter profile, where puzzles are generated daily.")
 *@dailybeehive Twitter profile, where puzzles are generated daily.*
 
 ## Free and open-source
