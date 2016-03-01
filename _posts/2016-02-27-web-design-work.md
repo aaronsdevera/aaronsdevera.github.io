@@ -10,7 +10,7 @@ Best is a project I am working on with [@kennydurk_in](https://twitter.com/kenny
 
 ## Frontier Psychiatrist
 ![Frontier Psychiatrist](http://aaronsdevera.com/public/img/post_img/portfolio/fp.gif "Frontier Psychiatrist")
-Frontier Psychiatrist is a (video game I am working on)[http://aaronsdevera.com/2015/12/29/frontier-psychiatrist-1/]. The Electron framework allows me to develop the front end of the game in HTML5/CSS3/JQuery just like any other website, but have it run natively as an application on OSX, Windows, and Linux.
+Frontier Psychiatrist is a [video game I am working on](http://aaronsdevera.com/2015/12/29/frontier-psychiatrist-1/). The Electron framework allows me to develop the front end of the game in HTML5/CSS3/JQuery just like any other website, but have it run natively as an application on OSX, Windows, and Linux.
 
 ## Personal Site
 ![Personal Site](http://aaronsdevera.com/public/img/post_img/portfolio/site.gif "Personal Site")
