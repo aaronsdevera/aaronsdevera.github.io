@@ -13,4 +13,4 @@ Cyborg makes Twitter bots that copy the writing style of any username you provid
 
 I contributed to the project's back-end functions, which included the generation of new tweets using a Markov algo in Python.
 
-Check out the project [here](https://github.com/kennydurkin/Project-Cyborg), it runs!.
+Check out the project [here](https://github.com/kennydurkin/Project-Cyborg), it runs!
