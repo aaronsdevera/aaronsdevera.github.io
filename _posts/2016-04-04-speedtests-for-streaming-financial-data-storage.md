@@ -16,3 +16,9 @@ Here's a quick test of a program in our trading platform that fetches financial 
 
 ## Redis data store speedtest
 ![file i/o](http://aaronsdevera.com/public/img/post_img/2016-04-04-speedtests-for-streaming-financial-data-storage2.png "file i/o")
+
+The results are pretty clear. Our average time to reach out to financial data servers and download the data to the filesystem looks to be about .5 seconds. Downloading to a Redis instance takes an average time of 0.18 seconds or so.
+
+It's worth mentioning that a more extragenous factor that bears influence on this test is internet connection. The connection speed is about the same for both of these tests, but it is a factor in the amount of time it takes to get data and save it. But there's plenty of literature about that out [there](https://www.google.com/webhp?hl=en#hl=en&q=flash+boys).
+
+*As always, I'll tease more updates on [my blog](http://aaronsdevera.com). My team, Pirate Trading Platform, will present our data and code April 13 at the [Fordham Undergraduate Research Symposium](http://www.fordham.edu/info/20331/undergraduate_research_symposium).*
