@@ -21,6 +21,6 @@ The results are pretty clear. Our average time to reach out to financial data se
 
 Also note the outlying spike that happens in Filesystem "test3" between the 1st and 3rd downloads (x-axis) and Redis "test3" for the 2nd and 4th downloads (x-axis). This may be due to the financial data service we are using, and possible rate limits on how much data one can access in a given time.
 
-It's worth mentioning that a more extragenous factor that bears influence on this test is internet connection. The connection speed is about the same for both of these tests, but it is a factor in the amount of time it takes to get data and save it. But there's plenty of literature about that out [there](https://www.google.com/webhp?hl=en#hl=en&q=flash+boys).
+It's worth mentioning a more extragenous factor that bears influence on this test is internet connection. The connection speed is about the same for both of these tests, but it is a factor in the amount of time it takes to get data and save it. But there's plenty of literature about that out [there](https://www.google.com/webhp?hl=en#hl=en&q=flash+boys).
 
 *As always, I'll tease more updates on [my blog](http://aaronsdevera.com). My team, Pirate Trading Platform, will present our data and code April 13 at the [Fordham Undergraduate Research Symposium](http://www.fordham.edu/info/20331/undergraduate_research_symposium).*
