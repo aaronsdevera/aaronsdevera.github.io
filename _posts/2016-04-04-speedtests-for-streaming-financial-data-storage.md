@@ -3,6 +3,8 @@ layout: post
 title: Speedtests for streaming financial data storage
 ---
 
+![speedtest header](http://aaronsdevera.com/public/img/post_img/2016-04-04-speedtests-for-streaming-financial-data-storage.png "speedtest header")
+
 *This post is related to a series of posts about Pirate Trading Platform, an automated trading platform research project. See the previous post [here](http://aaronsdevera.com/2016/03/16/financial-data-testing-for-automated-trading/).*
 
 Choosing how to store data is often an application-specific decision.
