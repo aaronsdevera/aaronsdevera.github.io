@@ -124,6 +124,7 @@ h1, h2, h3, h4, h5, h6 {
 .masthead-title a {
   /*color: #505050;*/
   color: #000;
+  width:100%;
 }
 .masthead-title small {
   font-size: 75%;
