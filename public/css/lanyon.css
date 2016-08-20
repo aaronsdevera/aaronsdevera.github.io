@@ -114,12 +114,15 @@ h1, h2, h3, h4, h5, h6 {
 .masthead-title {
   margin-top: 0;
   margin-bottom: 0;
-  color: #505050;
-  font-family: 'Times New Roman', Times, serif;
+  /*color: #505050;
+  font-family: 'Times New Roman', Times, serif;*/
+  font-family: "Courier New", Courier, monospace;
+  color: #000;
   font-weight:bold;
 }
 .masthead-title a {
-  color: #505050;
+  /*color: #505050;*/
+  color: #000;
 }
 .masthead-title small {
   font-size: 75%;
