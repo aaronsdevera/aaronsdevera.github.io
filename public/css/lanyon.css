@@ -191,6 +191,10 @@ h1, h2, h3, h4, h5, h6 {
   z-index:5;
 }
 
+.sidebar-item p {
+  font-size:.3;
+}
+
 /* RESPONSIVE */
 
 @media (max-width: 910px) {
