@@ -9,7 +9,7 @@ However, I also like to take pictures during my ride, which of course have embed
 
 While there is no all-in-one solution to do so, I like to fuse all this data into one visualization. 
 
-![Image overlay atop geographic data.](http://aaronsdevera.com./public/img/post_img/2016-01-01-visualizing-cycling-3d.png "Image overlay atop geographic data.")
+![Image overlay atop geographic data.](http://aaronsdevera.com/public/img/post_img/2016-01-01-visualizing-cycling-3d.png "Image overlay atop geographic data.")
 *Image overlay atop geographic data.*
 
 # My workflow
