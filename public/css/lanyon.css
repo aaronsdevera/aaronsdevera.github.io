@@ -57,7 +57,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #index-image-container img {
-  
+
 }
 
 /*
@@ -311,7 +311,12 @@ a.sidebar-nav-item:focus {
 #sidebar-checkbox:focus ~ .sidebar-toggle,
 #sidebar-checkbox:checked ~ .sidebar-toggle {
   color: #fff;
-  background-color: #555;
+  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#dcebef+0,7db9e8+100 */
+  background: #dcebef; /* Old browsers */
+  background: -moz-linear-gradient(top, #dcebef 0%, #7db9e8 100%); /* FF3.6-15 */
+  background: -webkit-linear-gradient(top, #dcebef 0%,#7db9e8 100%); /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(to bottom, #dcebef 0%,#7db9e8 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#dcebef', endColorstr='#7db9e8',GradientType=0 ); /* IE6-9 */
 }
 
 .sidebar-toggle:active:before,
