@@ -115,10 +115,11 @@ h1, h2, h3, h4, h5, h6 {
   margin-top: 0;
   margin-bottom: 0;
   /*color: #505050;
-  font-family: 'Times New Roman', Times, serif;*/
+  font-family: 'Times New Roman', Times, serif;
+  font-weight:bold;*/
   font-family: "Courier New", Courier, monospace;
   color: #000;
-  font-weight:bold;
+  
 }
 .masthead-title a {
   /*color: #505050;*/
@@ -214,8 +215,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .sidebar .masthead-title a {
-  font-weight: bold;
-  color: #ac4142;
+  /*font-weight: bold;
+  color: #ac4142;*/
 }
 
 .sidebar-item {
