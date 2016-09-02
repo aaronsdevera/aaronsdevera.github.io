@@ -141,11 +141,10 @@ body, html {
 
   #location {
     font-size: 40px;
-  }
+ @viewport {
+   zoom:0.75;
+   min-zoom:0.5;
+   max-zoom:0.9;
+ }
 }
 
-@viewport {
-  zoom: 0.75;
-  min-zoom: 0.5;
-  max-zoom: 0.9;
-}
