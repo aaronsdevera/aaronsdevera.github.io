@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/aaronsdevera
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://aaronsdevera.com
+  * I am aaronsdevera (https://keybase.io/aaronsdevera) on keybase.
+  * I have a public key with fingerprint E45D A985 E8D7 7A41 0500  6A5B EBD5 5547 ABA6 A12A
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01208cdf8267f3aba29905850f9f9145bddeaa65be9297c7d64f7bd559b2161373310a",
+      "fingerprint": "e45da985e8d77a4105006a5bebd55547aba6a12a",
+      "host": "keybase.io",
+      "key_id": "ebd55547aba6a12a",
+      "kid": "0101e1590a1fd7da4f5b47e098f98a20b4d1321632b5a784da22b9d6a279182c180a0a",
+      "uid": "24961406b1dca5397336b80d7b98f300",
+      "username": "aaronsdevera"
+    },
+    "service": {
+      "hostname": "aaronsdevera.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1567672386,
+  "expire_in": 157680000,
+  "prev": "71478ebe0a34dde8a320820ae483902ecfcd33763266459c2a76ade4561f3422",
+  "seqno": 24,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.3
+Comment: https://keybase.io/crypto
+
+yMNsAnicbZJ7UFRVHMd3iRC2CJMAMRW9UzYk0H0/NkKDREFmEETFfKzn3nPusi37
+YPfuAhGIWWCNwTAq4UgGEUxgQ4+JRqJEGEheM7gmA1g29UcPY5AcGSuhsXOZ/M/z
+z51zz/f7Od/f73cGwh8ymIwzE7u2nmtrftY42tfkMxxwD6WWEbILlhLmMsKOlj6o
+ECKvZrHbIGEmSIomRQWqIs0LKgNkQEsSyYkcqUqqRLGcDCECgOdkJNGSoAiQZ1VB
+hhwnyTTFU4zAMBQJiARCtTmtyOP22JwaxiKWg0ASOSRCQQAsRXIkyQNM0a0cK+CL
+eEDRurHA5dUdOJwMvCjJ5sL/8MayFO8B+vu5SQpRnEQCSoUCBKzKyayASElUJRHQ
+pMxCisEJGVrmgCCyENC0LEEe0IJEibRCiSRYyu1bwtGsxFMsycsUVADHSLgsXhZJ
+KMgYyJCkLvQijxM4EFYD4HE5vRD5kQcQ5QkEPvHbFKQ3V6/mAaokxeXADLfHpbkU
+VyE+LdA0t9esu7VSty4vRrLlf5BFtjkh7id2YLPX5nISZgorFc2mkymOF3iBZkQ+
+gUAlbpsHWWy6ghN4kcRLvwf5MVKgWEFEMiIBw+I5ioDBw6ZJgFiRkUgaKaoCGUbA
+TeJ5lpMUGgg8gHh2PKUyLE0TemlFThdhplmcE1gx02uzOoHm8yCivL9vf7DBaDKE
+PBykPzSDKWz5/ed3OyviH2P8ss2Xh19N4dfTouPJxtYBJH7UdXrDN964kg+CmcDG
+SHP1skPbeqri9iyai85OPXKx8vD6J8DB1f4j8y2mwOvdxTPt3513vGg4DDs6X7Ab
+mZDsCz8s1MaG3Vk3U9w7trVjMmo8sGVtWXvppQqTUcm3Xpn9iq0MXQi1DP/YHOcp
+PPPUXKuVaR6Zy5rtyGilbqhr11gnttX2Bw/AiFkQXJHrv1r9Z00vtXPqWu0Ykz+d
+mVyXPXBsND4NyYHJzP7h1Lv+ns/SbSc35Graje6WlsVU5i9l5dGeN8H3JxR23vOM
+r3l8f5u9L/fbeymJJfWNb3cOzf6tmda99fjRP/o/L0suiWy6WJW1KyOjIT3I//Tg
+vjPXvq7uboxtr+xunDxx6eXVcWfn5p//PfP9FOvNBVi8+/r0K5ETPrbcemXwlwrH
+6eVRYe+lvLZ9nM/tdR6rr4geDhrJzCdi/DHnSu92vTG9J6d72jDy63ZfQ2JPAR8f
+/Kk86H9p9/nHouw3N82EHjCqnkNH3o1Twmtrb3+YtWJf/Z3RU6EtK/eGn+rc9PEq
+b/bxzbdSv2i7tWIq47orcCHWvzcrbUvO1cTcy1reYjld16DtyOmqqQ+xR//7aKDH
+Qedo70zu8G88eDJ9qq4m7+fFNcNs41B0a4Sp6qfjvp2/pY3dyytq+nK6PWlV4Scx
+NQnJRabZCOG5/wBfhLvm
+=55vv
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/aaronsdevera
+
+==================================================================
